@@ -1,0 +1,1 @@
+model place: /home/lmwang/code/caffe_data_parallel_before20160602/caffe/matlab/ijcv_share/transfer_chalearn_models

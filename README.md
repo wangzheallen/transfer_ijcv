@@ -32,7 +32,8 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <p>3. Feed the feature to SVM/softmax to get the score.</p>
 
 <h4>model</h4> 
-to be done
+<li><a href="http://mmlab.siat.ac.cn/transfer_chalearn_models/">ChaLearn Models</a></li>
+<li><a href="http://mmlab.siat.ac.cn/transfer_wider_models/">Wider Models</a></li> 
 
 <ul>
 <li><a href="http://wanglimin.github.io/">Limin Wang</a></li>
