@@ -42,12 +42,15 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <li>Code and Files needed to plot figures below lies in picture folder</li>
 </ul>
 
-![Alt text](http://wangzheallen.github.io/cultural_event/1.png)
-![Alt text](http://wangzheallen.github.io/cultural_event/2.png)
-![Alt text](http://wangzheallen.github.io/cultural_event/3.png)
+<h4>Contacts</h4> 
 <ul>
 <li><a href="http://wanglimin.github.io/">Limin Wang</a></li>
 <li><a href="http://wangzheallen.github.io/">Zhe Wang</a></li>
 </ul>
+
+![Alt text](http://wangzheallen.github.io/cultural_event/1.png)
+![Alt text](http://wangzheallen.github.io/cultural_event/2.png)
+![Alt text](http://wangzheallen.github.io/cultural_event/3.png)
+
 
 
