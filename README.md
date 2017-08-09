@@ -32,9 +32,19 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <p>3. Feed the feature to SVM/softmax to get the score.</p>
 
 <h4>model</h4> 
+<ul>
 <li><a href="http://mmlab.siat.ac.cn/transfer_chalearn_models/">ChaLearn Models</a></li>
 <li><a href="http://mmlab.siat.ac.cn/transfer_wider_models/">Wider Models</a></li> 
-<li></li>
+</ul>
+
+<h4>Pictures</h4> 
+<ul>
+<li>Code and Files needed to plot figures in the paper</a></li>
+![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/1.png "Distribution")
+![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/2.png "Heatmap1")
+![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/3.png "Heatmap2")
+</ul>
+
 <ul>
 <li><a href="http://wanglimin.github.io/">Limin Wang</a></li>
 <li><a href="http://wangzheallen.github.io/">Zhe Wang</a></li>
