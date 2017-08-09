@@ -39,7 +39,7 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 
 <h4>Pictures</h4> 
 <ul>
-<li>Code and Files needed to plot figures in the paper</li>
+<li>Code and Files needed to plot figures below lies in picture folder</li>
 </ul>
 
 ![Alt text](http://wangzheallen.github.io/cultural_event/1.png)
