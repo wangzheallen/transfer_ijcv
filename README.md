@@ -40,10 +40,11 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <h4>Pictures</h4> 
 <ul>
 <li>Code and Files needed to plot figures in the paper</a></li>
+</ul>
 ![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/1.png "Distribution")
 ![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/2.png "Heatmap1")
 ![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/3.png "Heatmap2")
-</ul>
+
 
 <ul>
 <li><a href="http://wanglimin.github.io/">Limin Wang</a></li>
