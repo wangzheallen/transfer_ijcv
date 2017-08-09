@@ -41,11 +41,8 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <ul>
 <li>Code and Files needed to plot figures in the paper</a></li>
 </ul>
+#Pictures
 ![Alt text](http://wangzheallen.github.io/cultural_event/1.png)
-![Alt text](http://wangzheallen.github.io/cultural_event/2.png)
-![Alt text](http://wangzheallen.github.io/cultural_event/3.png "Heatmap2")
-
-
 <ul>
 <li><a href="http://wanglimin.github.io/">Limin Wang</a></li>
 <li><a href="http://wangzheallen.github.io/">Zhe Wang</a></li>
