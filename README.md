@@ -41,9 +41,9 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <ul>
 <li>Code and Files needed to plot figures in the paper</a></li>
 </ul>
-![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/1.png "Distribution")
-![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/2.png "Heatmap1")
-![alt text](https://github.com/wangzheallen/transfer_ijcv/tree/master/picture/3.png "Heatmap2")
+![alt text](http://wangzheallen.github.io/cultural_event/1.png "Distribution")
+![alt text](http://wangzheallen.github.io/cultural_event/2.png "Heatmap1")
+![alt text](hhttp://wangzheallen.github.io/cultural_event/3.png "Heatmap2")
 
 
 <ul>
