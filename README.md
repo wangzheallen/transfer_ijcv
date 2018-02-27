@@ -35,6 +35,7 @@ Limin Wang, Zhe Wang, Yu Qiao and Luc Van Gool, http://arxiv.org/abs/1609.00162
 <ul>
 <li><a href="http://mmlab.siat.ac.cn/transfer_chalearn_models/">ChaLearn Models</a></li>
 <li><a href="http://mmlab.siat.ac.cn/transfer_wider_models/">Wider Models</a></li> 
+<li><a href="https://drive.google.com/drive/folders/1KlazWLMlU6TIkT4cssAV9TGmxuyCNgy_?usp=sharing">ChaLearn & Wider Models, GoogleDrive</a></li> 
 </ul>
 
 <h4>Pictures</h4> 
